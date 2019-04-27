@@ -42,7 +42,7 @@
 	4. Copy hda-verb from misc folder to /usr/bin.
 	5. Reboot and enjoy
 	
-# DW1560 kext install
+# DW1560 kext installation
 
 	1. Copy kext from DW1560/CLOVER to CLOVER/kexts/Other.
 	2. Use any kext installer app to install kext from DW1560/LE or SLE. (If you are not sure, see the Note section)
