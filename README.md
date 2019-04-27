@@ -1,3 +1,4 @@
+
 # Asus Vivobook S15 S530UA
 
 # Detail
@@ -40,7 +41,7 @@
 	2. After install, install Clover to your macOS drive and copy CLOVER folder to your laptop main EFI folder.
 	3. Use any kext installer app to install kext from Kexts/LE or SLE. (If you are not sure, see the Note section)
 	4. Copy hda-verb from misc folder to /usr/bin.
-	5. Reboot and enjoy
+	5. Reboot and enjoy. 
 	
 # DW1560 kext installation
 
@@ -56,7 +57,8 @@
 # Special thanks
 
 	1. **tctien342** for providing base Clover folder (https://github.com/tctien342/Asus-Vivobook-S510UA-High-Sierra-10.13-Hackintosh)
-	2. **Hackintosh - The OS X on PC World** (Facebook group: https://www.facebook.com/groups/hackintoshPC)
+	2. **hieplvip**
+	3. **Hackintosh - The OS X on PC World** (Facebook group: https://www.facebook.com/groups/hackintoshPC)
 
 # Contact 
 	
