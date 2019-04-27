@@ -7,6 +7,7 @@
 	Support:    All BIOS
 	Changelogs:
 		- First version
+	macOS version: macOS Mojave 10.14.4
 	Status: Stable
 
 # System specification
