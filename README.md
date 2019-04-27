@@ -57,7 +57,7 @@
 # Special thanks
 
 	1. **tctien342** for providing base Clover folder (https://github.com/tctien342/Asus-Vivobook-S510UA-High-Sierra-10.13-Hackintosh)
-	2. **hieplvip**
+	2. **hieplpvip**
 	3. **Hackintosh - The OS X on PC World** (Facebook group: https://www.facebook.com/groups/hackintoshPC)
 
 # Contact 
