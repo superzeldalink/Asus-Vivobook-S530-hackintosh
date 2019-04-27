@@ -2,20 +2,18 @@
 
 # Detail
 
-	Version:    1
-	Date:       04/27/2019
-	Support:    All BIOS
-	Changelogs:
-		- First version
-	macOS version: macOS Mojave 10.14.4
-	Status: Stable
+	Version:	1
+	Date:		04/27/2019
+	Support:	All BIOS
+	macOS:		Mojave 10.14.4
+	Status:		Stable
 
 # System specification
 
 	1. Name:           Asus Vivobook S530UA BQ100T
 	2. CPU:            Intel Core i5-8250U
 	3. Graphic:        Intel UHD620
-	4. Wifi:           Intel Dual Band Wireless-AC 8265 - with bluetooth // REPLACED WITH DW1560 (AirDrop and Handoff working perfectly)
+	4. Wifi:           Intel Dual Band Wireless-AC 8265 // Replaced with DW1560
 	5. Card Reader:    n/a (Not tested)
 	6. Camera:         ASUS UVC HD
 	7. Audio:          Realtek ALC256
