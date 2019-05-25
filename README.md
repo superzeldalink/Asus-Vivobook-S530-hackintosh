@@ -15,7 +15,7 @@
 	2. CPU:			Intel Core i5-8250U
 	3. Graphic:		Intel UHD620
 	4. Wifi:		Intel Dual Band Wireless-AC 8265, replaced with DW1560
-	5. Card Reader:		n/a (Not tested)
+	5. Card Reader:		n/a
 	6. Camera:		ASUS UVC HD
 	7. Audio:		Realtek ALC256
 	8. Touchpad:		ELAN1300
@@ -23,8 +23,7 @@
 	
 # Not working
 
-	1. Card Reader
-	2. Instant Hotspot (Continuity)
+	1. Instant Hotspot (Continuity)
 
 # Thing will never able to use
 
