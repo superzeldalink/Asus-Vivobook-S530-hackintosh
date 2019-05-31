@@ -3,10 +3,11 @@
 
 # Detail
 
-	Version:	1
+	Version:	1.1
 	Date:		04/27/2019
 	Support:	All BIOS
-	macOS:		Mojave 10.14.4
+	macOS:		Mojave 10.14.5
+	Changelog:	Fixed slow input password by adding NoTouchID.kext
 	Status:		Stable
 
 # System specification
@@ -15,7 +16,7 @@
 	2. CPU:			Intel Core i5-8250U
 	3. Graphic:		Intel UHD620
 	4. Wifi:		Intel Dual Band Wireless-AC 8265, replaced with DW1560
-	5. Card Reader:		n/a
+	5. Card Reader:		n/a (but works)
 	6. Camera:		ASUS UVC HD
 	7. Audio:		Realtek ALC256
 	8. Touchpad:		ELAN1300
@@ -23,12 +24,11 @@
 	
 # Not working
 
-	1. Instant Hotspot (Continuity)
+	Instant Hotspot (Continuity)
 
 # Thing will never able to use
 
-	1. Fingerprint.
-	2. FN + media controller's key.
+	Fingerprint.
 
 # Know problems
 
