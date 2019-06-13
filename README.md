@@ -3,11 +3,14 @@
 
 # Detail
 
-	Version:	1.1
+	Version:	1.2
 	Date:		04/27/2019
 	Support:	All BIOS
 	macOS:		Mojave 10.14.5
-	Changelog:	Fixed slow input password by adding NoTouchID.kext
+	Changelog:	v1.2:	- Fix battery indicator update issus
+				- Rename config.plist to config_DW1560.plist
+				- Add config.plist for non-DW1560 laptops
+			v1.1: Fixed slow input password by adding NoTouchID.kext
 	Status:		Stable
 
 # System specification
