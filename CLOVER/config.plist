@@ -690,7 +690,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>brcmfx-country=US bpr_probedelay=200 kext-dev-mode=1 igfxcflbklt=0 bpr_initialdelay=400 -brcmfxwowl bpr_postresetdelay=400 abm_firstpolldelay=32000 darkwake=0</string>
+		<string>brcmfx-country=US bpr_probedelay=200 kext-dev-mode=1 igfxcflbklt=0 bpr_initialdelay=400 -brcmfxwowl bpr_postresetdelay=400 abm_firstpolldelay=8000 darkwake=0</string>
 		<key>DefaultVolume</key>
 		<string>macOS</string>
 		<key>Secure</key>
